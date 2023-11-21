@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Modpack Setup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Modpack_Setup_jar</output-path>
+    <root id="archive" name="Modpack Setup.jar">
+      <element id="module-output" name="Modpack Setup" />
+    </root>
+  </artifact>
+</component>
